@@ -2,5 +2,6 @@ THE first file line 1
 THE second line
 hello my pig
 git is a mutable index called stage
-git tracks changes
+git tracks changes of file
+
 
